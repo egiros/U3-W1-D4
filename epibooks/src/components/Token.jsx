@@ -1,0 +1,4 @@
+const Token =
+  "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTcxZGMzNTBkOGEyMDAwMThhNDhhNjkiLCJpYXQiOjE3MDMxOTU2ODMsImV4cCI6MTcwNDQwNTI4M30.ww0rScM0ROMoAEW5qwDqy_MgbXq6kNxt-3MXeP309Ag";
+
+export default Token;
